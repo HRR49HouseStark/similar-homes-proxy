@@ -48,7 +48,7 @@ module.exports = {
     '/new-listings',
     '/new-listing/favorites'
     ],
-    url: 'http://localhost:3001',
+    url: 'http://52.15.94.24:3001/',
     bundle: 'bundle.js',
   },
   service2: {
