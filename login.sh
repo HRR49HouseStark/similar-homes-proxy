@@ -1,0 +1,1 @@
+ ssh -i "fec-proxy.pem" ubuntu@ec2-13-59-134-129.us-east-2.compute.amazonaws.com
